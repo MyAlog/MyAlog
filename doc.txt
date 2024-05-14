@@ -1,6 +1,7 @@
 git init
 git add .
 
+I love ...
 
 git config --global user.name = "MyAlog"
 git config --global user.email = "vinhdachithan01@gmail.com"
