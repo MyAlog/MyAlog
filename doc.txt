@@ -1,0 +1,3 @@
+git config --global user.name = "LongDL"
+git config --global user.email = "vinhdachithan01@gmail.com"
+git config --global credential.helper store
